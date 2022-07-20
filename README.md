@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenriqueSql&theme=radical)](https://github.com/joaohenriqueSql/github-readme-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/joaohenriqueSql/joaohenriqueSql/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
