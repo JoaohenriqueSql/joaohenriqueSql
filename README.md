@@ -11,4 +11,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenriqueSql&theme=radical)](https://github.com/joaohenriqueSql/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/[joaohenriqueSql])
