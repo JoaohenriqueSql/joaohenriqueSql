@@ -11,7 +11,7 @@
 
 <br>
 
-- <h3 align="center" style="color: rgb(0, 195, 255)">Sou uma pessoa que está começando nesse Área de Desenvolvimento de Software.</h3>
+- <h3 align="center" style="color: rgb(0, 195, 255)">Sou uma pessoa que está começando nesse Área de Desenvolvimento de Software.</h3> -
 
 <br>
 
