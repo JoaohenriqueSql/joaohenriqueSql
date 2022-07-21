@@ -9,9 +9,10 @@
 - 🌌🚀 Apaixonado pela Astronomia...
 - 🎮 Gosto de jogar jogos no tempo livre
 
-<br>
+<br><hr>
 
-- <h3 align="center" style="color: rgb(0, 195, 255)">Sou uma pessoa que está começando nesse Área de Desenvolvimento de Software.</h3> -
+- <h3 align="center" style="color: rgb(0, 195, 255)">Sou uma pessoa que está começando nesse Área de Desenvolvimento de Software.</h3>
+- <img align="center" style="width: 45px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/smiling-face-with-sunglasses_1f60e.png"><img align="center" style="width: 45px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/desktop-computer_1f5a5-fe0f.png">
 
 <br>
 
