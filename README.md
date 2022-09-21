@@ -22,7 +22,7 @@
 
 <br>
 
-- ## Tecnologias que eu uso 🖥️
+- ## Linguagens em uso 🖥️
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-- ## Sistemas Operacionais Favoritos✨
+- ## Sistemas Operacionais✨
 <div style="display: inline_block"><br>
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
