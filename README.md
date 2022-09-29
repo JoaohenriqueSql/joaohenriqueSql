@@ -1,6 +1,6 @@
 
 
-## Olá! Eu sou o João Henrique 👋
+## Olá! Eu sou o João 👋
 
 - 🖥️ Fazendo Curso de Informática para Internet 4/4 módulo...
 - 😃🏫 Estudando...
