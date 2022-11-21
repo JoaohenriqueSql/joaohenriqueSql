@@ -1,6 +1,6 @@
 
 
-## Olá! Eu sou o João 👋
+## Olá!👋
 
 - 🖥️ Fazendo Curso de Informática para Internet 4/4 módulo...
 - 😃🏫 Estudando...
